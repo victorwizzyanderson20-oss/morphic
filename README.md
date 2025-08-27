@@ -1,4 +1,4 @@
-# Morphic
+# Love Gold Ai
 
 An AI-powered search engine with a generative UI.
 
